@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Praveen 👋
 
-<!--
-**Praveen-BE/Praveen-BE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer with a love for coding, problem-solving, and continuous learning. Below you'll find a bit more about me and my work.
 
-Here are some ideas to get you started:
+<!-- ## 🔭 What I'm currently working on
+- [Project 1](https://github.com/Praveen-BE/project1): Brief description of project 1.
+- [Project 2](https://github.com/Praveen-BE/project2): Brief description of project 2. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 🌱 What I'm currently learning
+- Topic 1
+- Topic 2 -->
+
+<!-- ## 💬 Ask me about
+- JavaScript, Python, and other programming languages.
+- Web development frameworks like React.
+- Any of my projects or anything coding related! -->
+
+## 📫 How to reach me
+- [Email](praveenrajendiran3939@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/praveen-be/)
+
+<!-- ## ⚡ Fun fact
+- Share a fun fact about yourself! -->
+
+## 🛠️ My Skills
+
+### Languages
+- JavaScript
+
+### Frameworks and Libraries
+- React
+- Node.js
+- Express.js
+
+### Databases
+- PostgreSQL
+
+### Tools and Platforms
+- Git & GitHub
+- Redux
+
+### Test
+- Jest
+
+<!-- ## 📈 GitHub Stats
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen-BE&show_icons=true&theme=radical) -->
+
+<!-- Optional: Add more sections if needed, such as "Achievements", "Publications", etc. -->
